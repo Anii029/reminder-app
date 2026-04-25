@@ -49,6 +49,12 @@ You can also run the `.exe` file directly without installing Python.
 * 🔁 Recurring reminders
 * 📅 Date picker
 
+
+
+## 📥 Download
+
+[⬇️ Download Reminder App](https://github.com/Anii029/reminder-app/releases/latest)
+
 ---
 
 ## 👨‍💻 Author
